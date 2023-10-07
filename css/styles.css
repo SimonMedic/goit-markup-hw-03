@@ -207,6 +207,7 @@ img {
     background-color: var(--white-background-color);
     display: flex;
     gap: 24px;
+    border-radius: 0px 0px 4px 4px;
     }
 .function {
     font-size: 16px;
