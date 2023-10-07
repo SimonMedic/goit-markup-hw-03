@@ -176,6 +176,7 @@ img {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--dark-color);
+    margin-bottom: 72px;
 }
 .paragraph-footer {
     font-size: 16px;
@@ -228,4 +229,19 @@ img {
 }
 .point {
     width: calc((100% - 72px) / 4);
+}
+.list-work {
+    gap: 24px;
+}
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
 }
