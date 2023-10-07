@@ -186,6 +186,8 @@ img {
 }
 .team {
     background-color: var(--light-color);
+    padding: 120px 0;
+    
 }
 .team-members {
     font-size: 36px;
