@@ -219,3 +219,7 @@ img {
 .section-goals {
     padding: 120px 0;
 }
+.list-goals {
+    gap: 24px;
+    
+}
