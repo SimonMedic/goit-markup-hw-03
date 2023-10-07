@@ -193,3 +193,6 @@ img {
     padding: 0 15px;
     margin: 0 auto;
 }
+.header {
+    border-bottom: 1px solid var(--accent-color);
+}
