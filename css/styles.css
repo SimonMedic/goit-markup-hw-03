@@ -168,6 +168,7 @@ img {
     letter-spacing: 0.02em;
     color: var(--dark-color);
     margin-bottom: 8px;
+    border-radius: 0px 0px 4px 4px;
 }
 .work {
     font-size: 36px;
