@@ -169,6 +169,7 @@ img {
     color: var(--dark-color);
     margin-bottom: 8px;
     border-radius: 0px 0px 4px 4px;
+    text-align: center;
 }
 .work {
     font-size: 36px;
@@ -208,6 +209,7 @@ img {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 .conteiner {
     width: 1158px;
@@ -222,6 +224,9 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+}
+.container-team {
+    padding: 32px 0px;
 }
 .nav {
     display: flex;
