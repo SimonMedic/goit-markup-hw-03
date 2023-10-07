@@ -262,7 +262,7 @@ img {
     overflow: hidden;
 }
 .point-work {
-    width: calc((100% - 3 * 16px) / 3);
+    flex-basis: calc((100% - 3 * 16px) / 3);
 }
 .section-solution {
     padding: 188px 0;
