@@ -301,3 +301,6 @@ img {
 .button-portfolio-main:hover {
     border: 1px solid transparent;
 }
+.list-main {
+    width: calc((100% - 48px) / 3);
+}
