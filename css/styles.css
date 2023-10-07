@@ -287,7 +287,7 @@ img {
     gap: 24px;
     margin-bottom: 72px;
 }
-.button-portfolio-main {
+.button .button-portfolio-main {
     padding: 12px 12px;
     border: 1px solid var(--accent-color);
     border-radius: 4px;
