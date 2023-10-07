@@ -131,6 +131,7 @@ img {
 .section {
     background-color: var(--dark-color);
     padding: 188px 0;
+    padding-bottom: 120px;
 }
 .solution {
     font-size: 56px;
