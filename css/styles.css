@@ -187,7 +187,7 @@ img {
 .team {
     background-color: var(--light-color);
     padding: 120px 0;
-    
+
 }
 .team-members {
     font-size: 36px;
@@ -196,10 +196,13 @@ img {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--dark-color);
+    margin-bottom: 72px;
 }
 .team-photo {
     background-color: var(--white-background-color);
-}
+    display: flex;
+    gap: 24px;
+    }
 .function {
     font-size: 16px;
     line-height: 1.5;
