@@ -30,6 +30,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--primary-brand-color);
+    margin-right: 76px;
 }
 
 .link {
@@ -42,13 +43,16 @@ img {
 
 .list {
     list-style: none;
+    display: flex;
+    gap: 40px;
 }
 
 .nav-link {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--dark-color)
+    color: var(--dark-color);
+    padding: 24px 0;
 
 }
 
