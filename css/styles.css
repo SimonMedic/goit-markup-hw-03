@@ -202,3 +202,7 @@ img {
     margin: 0 auto;
     padding: 0 15px;
 }
+.nav {
+    display: flex;
+    align-items: center;
+}
