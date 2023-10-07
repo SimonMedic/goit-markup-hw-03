@@ -248,3 +248,6 @@ img {
 .point-work {
     width: calc((100% - 48px) / 3);
 }
+.section-solution {
+    padding: 188px 0;
+}
