@@ -150,6 +150,7 @@ img {
     min-width: 169px;
     height: 56px;
     border: none;
+    border-radius: 4px;
 }
 .button-solution:hover {
     background-color: var(--pressed-state-color);
