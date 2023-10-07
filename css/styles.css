@@ -307,3 +307,8 @@ img {
 .title-portfolio {
     margin-bottom: 8px;
 }
+.container-portfolio {
+    padding: 32px 16px;
+    border: 1px solid var(--accent-color);
+    border-top: none;
+}
