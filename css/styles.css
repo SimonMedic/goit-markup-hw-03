@@ -291,7 +291,7 @@ img {
     border: 1px solid transparent;
 }
 .button-portfolio-main {
-    padding: 12px 24px;
+    padding: 12px24px;
     border: 1px solid var(--accent-color);
     border-radius: 4px;
 }
