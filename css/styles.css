@@ -236,6 +236,10 @@ img {
     color: var(--dark-color);
     margin-bottom: 72px;
 }
+* {
+    margin: 0px;
+    padding: 0px;
+}
 .team-photo {
     background-color: var(--white-background-color);
     display: flex;
