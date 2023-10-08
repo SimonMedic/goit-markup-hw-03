@@ -236,6 +236,7 @@ img {
     letter-spacing: 0.72px;
     word-wrap: break-word;
     color: var(--dark-color);
+    margin-bottom: 72px;
 }
 * {
     margin: 0px;
