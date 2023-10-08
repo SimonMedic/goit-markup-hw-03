@@ -229,12 +229,13 @@ img {
 }
 .team-members {
     font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
+    font-family: Roboto;
+    font-weight: 700;
     text-transform: capitalize;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    word-wrap: break-word;
     color: var(--dark-color);
-    margin-bottom: 72px;
 }
 * {
     margin: 0px;
