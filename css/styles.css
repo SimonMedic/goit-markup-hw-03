@@ -37,6 +37,9 @@ img {
     text-decoration: none;
     display: inline-block;
 }
+.logo-header {
+    gap: 40px;
+}
 
 .span {
     color: var(--dark-color);
