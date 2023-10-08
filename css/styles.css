@@ -65,6 +65,7 @@ img {
 }
 .list-team {
     gap: 24px;
+    display: flex;
 }
 .list-header {
     gap: 40px;
