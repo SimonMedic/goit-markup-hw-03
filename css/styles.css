@@ -186,9 +186,10 @@ img {
     border: none;
     border-radius: 4px;
     text-align: center;
-    padding: 16px 32px 16px 32px;
+    padding: 16px 32px;
     align-items: flex-start;
     gap: 10px; 
+    display: inline-flex;
 }
 .button-solution:hover {
     background-color: var(--pressed-state-color);
