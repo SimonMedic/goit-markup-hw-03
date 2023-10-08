@@ -279,6 +279,9 @@ img {
     align-items: center;
 }
 .section-goals {
+    width: 1128px;
+    height: 104px;
+    flex-shrink: 0;
     padding: 120px 0;
 }
 .list-goals {
