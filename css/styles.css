@@ -12,6 +12,10 @@
     --white-background-color: #FFFFFF;
     --modal-background-color: #FCFCFC;
 }
+* {
+    margin: 0px;
+    padding: 0px;
+}
 body {
     font-family: "Roboto", sans-serif;
     color: var(--text-color);
