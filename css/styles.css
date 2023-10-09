@@ -335,6 +335,7 @@ img {
 .list-portfolio {
     flex-wrap: wrap;
     column-gap: 24px;
+    row-gap: 48px;
     justify-content: center;
     gap: 24px;
     margin-bottom: 72px;
