@@ -48,6 +48,9 @@ img {
 }
 .logo-header {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
 }
 
 .span {
@@ -91,6 +94,7 @@ img {
 
 .address {
     font-style: normal;
+    margin-left: auto;
 }
 
 .mail {
@@ -283,6 +287,7 @@ img {
 .nav {
     display: flex;
     align-items: center;
+    gap: 40px;
 }
 .section-goals {
     display: flex;
