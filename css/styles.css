@@ -372,5 +372,6 @@ img {
     row-gap: 48px;
 }
 .section-portfolio {
+    background-color: var(--white-background-color);
     padding: 188px 0;
 }
