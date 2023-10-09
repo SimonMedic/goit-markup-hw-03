@@ -333,9 +333,6 @@ img {
     padding: 100px 0;
 }
 .list-portfolio {
-    flex-wrap: wrap;
-    column-gap: 24px;
-    row-gap: 48px;
     justify-content: center;
     gap: 24px;
     margin-bottom: 72px;
@@ -371,8 +368,8 @@ img {
 .list-portfolio-2 {
     display: flex;
     flex-wrap: wrap;
-    padding: 188px 0;
-    gap: 24px;
+    column-gap: 24px;
+    row-gap: 48px;
 }
 .section-portfolio {
     padding: 188px 0;
