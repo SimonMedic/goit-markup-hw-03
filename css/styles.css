@@ -373,5 +373,7 @@ img {
 }
 .section-portfolio {
     background-color: var(--white-background-color);
-    padding: 188px 0;
+    padding-top: 96px;
+    padding-bottom: 120px;
+
 }
