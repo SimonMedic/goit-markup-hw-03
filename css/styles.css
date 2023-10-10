@@ -304,6 +304,10 @@ img {
 .point {
     width: calc((100% - 72px) / 4);
 }
+.section-work {
+    padding-bottom: 120px;
+}
+
 .list-work {
     display: flex;
     gap: 24px;
