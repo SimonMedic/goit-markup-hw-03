@@ -342,7 +342,6 @@ img {
 }
 .button-portfolio-main {
     padding: 12px 24px;
-    display: flex;
     border: 1px solid var(--accent-color);
     border-radius: 4px;
 }
