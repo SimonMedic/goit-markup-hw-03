@@ -178,6 +178,7 @@ img {
     margin: 0 auto 48px;
 }
 .button-solution {
+    display: block;
     background-color: var(--primary-brand-color);
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -192,9 +193,7 @@ img {
     border-radius: 4px;
     text-align: center;
     padding: 16px 32px;
-    align-items: flex-start;
     gap: 10px; 
-    display: inline-flex;
 }
 .button-solution:hover {
     background-color: var(--pressed-state-color);
