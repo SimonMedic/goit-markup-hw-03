@@ -261,7 +261,6 @@ img {
 }
 
 .header {
-    width: 1440px;
     height: 72px;
     display: flex;
     border-bottom: 1px solid var(--accent-color);
