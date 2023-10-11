@@ -298,7 +298,6 @@ img {
 .list-goals {
     display: flex;
     gap: 24px;
-    margin: 156px;
 }
 .point {
     width: calc((100% - 72px) / 4);
